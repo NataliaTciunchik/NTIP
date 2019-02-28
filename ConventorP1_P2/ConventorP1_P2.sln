@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConventorP1_P2", "ConventorP1_P2\ConventorP1_P2.csproj", "{13BEDB1F-4A2E-49F6-B4D5-893AE26BCEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BEDB1F-4A2E-49F6-B4D5-893AE26BCEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BEDB1F-4A2E-49F6-B4D5-893AE26BCEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BEDB1F-4A2E-49F6-B4D5-893AE26BCEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BEDB1F-4A2E-49F6-B4D5-893AE26BCEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F72160-2456-40DA-9EBA-FCC5E3FF32FC}
+	EndGlobalSection
+EndGlobal
