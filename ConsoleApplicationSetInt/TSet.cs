@@ -21,7 +21,7 @@ namespace ConsoleApplicationSetInt
             Set = new List<T>();
         }
         /*Операция МножествоВСтроку. Формирует строку из элементов множества.*/
-        public string ToSting()
+        public override string ToString()
         {
             string s = "";
             for (int i = 0; i < Set.Count; i++)
@@ -78,7 +78,7 @@ namespace ConsoleApplicationSetInt
             TSet<T> c = new TSet<T>();
             for (int i = 0; i < a.Set.Count; i++)
                 for (int j = 0; j < b.Set.Count; j++)
-                    if (a.Set[i].Equals(b.Set[i]) && !c.Belong(a.Set[i]))
+                    if (a.Set[i].Equals(b.Set[j]) && !c.Belong(a.Set[i]))
                         c.AddTo(a.Set[i]);
             return c;
         }
@@ -91,14 +91,7 @@ namespace ConsoleApplicationSetInt
                     continue;
                 else
                     if (!c.Belong(a.Set[i]))
-                    c.AddTo(a.Set[i]);
-
-            for (int i = 0; i < b.Set.Count; i++)
-                if (a.Belong(b.Set[i]))
-                    continue;
-                else
-                    if (!c.Belong(b.Set[i]))
-                    c.AddTo(b.Set[i]);
+                        c.AddTo(a.Set[i]);
             return c;
         }
         //Операция Равно. Проверяет два множества на совпадение их элементов
@@ -122,7 +115,7 @@ namespace ConsoleApplicationSetInt
             return !(a == b);
         }
         //Операция Принадлежит. Проверяет элемент x на принадлежность множеству.
-        public bool Belong(T x)
+        private bool Belong(T x)
         {
             for (int i = 0; i < this.Set.Count; i++)
                 if (this.Set[i].Equals(x))
