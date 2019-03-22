@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FracCalc2-4", "FracCalc2-4\FracCalc2-4.csproj", "{ACE3AE31-37F0-44F3-9F38-B3075B0AC471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE3AE31-37F0-44F3-9F38-B3075B0AC471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE3AE31-37F0-44F3-9F38-B3075B0AC471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE3AE31-37F0-44F3-9F38-B3075B0AC471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE3AE31-37F0-44F3-9F38-B3075B0AC471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069F4339-152E-4051-AB76-1ADF0518306E}
+	EndGlobalSection
+EndGlobal
