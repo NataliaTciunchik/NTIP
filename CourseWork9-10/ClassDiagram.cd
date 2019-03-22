@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PCalcVar9_10.PCalc">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIJgADIeSkABBgCAACEAEgCAOy/oCAAIBAEAIAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Control_" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PCalcVar9_10.Editor">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABAAAAEAAAAAQAAAgACAAAAIAAABAIQA=</HashCode>
+      <FileName>Editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Convertor_P_10">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Convertor_P_10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Convertor_10_P">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Convertor_10_P.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Control_">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PCalcVar9_10.Control_.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Control_.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="PCalcVar9_10.Control_.Operation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Control_.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <AssociationLine Name="Convertor_P_10" Type="PCalcVar9_10.Convertor_P_10">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.13" Y="0.091" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAABEAAAAAAAAQAAAAAAAIAAAIAgAAAIAAACACAA=</HashCode>
+      <FileName>Control_.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Editor" />
+      <Property Name="Convertor_P_10" />
+      <Property Name="Convertor_10_P" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

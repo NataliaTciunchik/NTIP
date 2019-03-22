@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PCalcVar9_10.Control_">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="PCalcVar9_10.Control_.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Control_.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="PCalcVar9_10.Control_.Operation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Control_.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAIAAAIAgAAAAAAACACAA=</HashCode>
+      <FileName>Control_.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Convertor_10_P">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Convertor_10_P.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Convertor_P_10">
+    <Position X="3" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Convertor_P_10.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Editor">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABAAAAEAAAAAQAAAgACAAAAIAAABAIQA=</HashCode>
+      <FileName>Editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.PCalc">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIJAADIeSkABBgCAACEAEgCAOy/oCAAIBAEAIAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Program">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Properties.Resources">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PCalcVar9_10.Properties.Settings">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
