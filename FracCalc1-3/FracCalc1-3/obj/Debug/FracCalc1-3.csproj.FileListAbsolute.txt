@@ -1,0 +1,10 @@
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\bin\Debug\FracCalc1-4.exe.config
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\bin\Debug\FracCalc1-4.exe
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\bin\Debug\FracCalc1-4.pdb
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\obj\Debug\FracCalc1-3.csprojAssemblyReference.cache
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\obj\Debug\FracCalc1_4.Form1.resources
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\obj\Debug\FracCalc1_4.Properties.Resources.resources
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\obj\Debug\FracCalc1-3.csproj.GenerateResource.cache
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\obj\Debug\FracCalc1-3.csproj.CoreCompileInputs.cache
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\obj\Debug\FracCalc1-4.exe
+f:\SibSUTIS\Зайцев\Курсовая работа\FracCalc1-3\FracCalc1-3\obj\Debug\FracCalc1-4.pdb
