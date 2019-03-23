@@ -1,0 +1,9 @@
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\bin\Debug\ComplexCalc6-8.exe.config
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\bin\Debug\ComplexCalc6-8.exe
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\bin\Debug\ComplexCalc6-8.pdb
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\obj\Debug\ComplexCalc6_8.Form1.resources
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\obj\Debug\ComplexCalc6_8.Properties.Resources.resources
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\obj\Debug\ComplexCalc6-8.csproj.GenerateResource.cache
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\obj\Debug\ComplexCalc6-8.csproj.CoreCompileInputs.cache
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\obj\Debug\ComplexCalc6-8.exe
+F:\SibSUTIS\Зайцев\Курсовая работа\ComplexCalc6-8\ComplexCalc6-8\obj\Debug\ComplexCalc6-8.pdb
