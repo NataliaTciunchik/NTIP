@@ -1,0 +1,22 @@
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\bin\Debug\FracCalc1-4.exe.config
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\bin\Debug\FracCalc1-4.exe
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\bin\Debug\FracCalc1-4.pdb
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc2-4.csprojAssemblyReference.cache
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc1_4.Form1.resources
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc1_4.Properties.Resources.resources
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc2-4.csproj.GenerateResource.cache
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc2-4.csproj.CoreCompileInputs.cache
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc1-4.exe
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc1-4.pdb
+F:\SibSUTIS\Зайцев\Курсовая работа\FracCalc2-4\FracCalc2-4\obj\Debug\FracCalc1_4.About.resources
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\bin\Debug\FracCalc1-4.exe.config
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\bin\Debug\FracCalc1-4.exe
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\bin\Debug\FracCalc1-4.pdb
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc2-4.csprojAssemblyReference.cache
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc1_4.About.resources
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc1_4.Form1.resources
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc1_4.Properties.Resources.resources
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc2-4.csproj.GenerateResource.cache
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc2-4.csproj.CoreCompileInputs.cache
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc1-4.exe
+f:\SibSUTIS\Зайцев\git\Omyrzakov_Krasava\FracCalc2-4\obj\Debug\FracCalc1-4.pdb
